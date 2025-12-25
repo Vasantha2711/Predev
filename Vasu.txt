@@ -3,4 +3,8 @@ hloo i love u
 vasantha and karima both r frds
 hi
 vasu is a good girl
+<<<<<<< HEAD
 karima is a dare girl
+=======
+karima is a daring girl
+>>>>>>> d6e6b1b (commit_11)
